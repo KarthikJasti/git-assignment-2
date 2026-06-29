@@ -64,7 +64,6 @@ git pull
 
 4. Add a new line below: \
 Tabs are better than spaces for indentation.
-
 5. Add, commit, and push your changes:
   - git add README.md
   - git commit -m "Add controversial opinion"
@@ -94,7 +93,7 @@ Submit a link to your fork of this repository on Google Classroom.
 
 This part is optional, but recommended if you finish early.
 
-1. Make sure you are on the `main` branch: \
+1. Make sure you're on the `main` branch: \
 git status \
 If not: \
 git checkout main
